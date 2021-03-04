@@ -15,6 +15,8 @@ Introdução ao Node, instalação do Nodemon, respondendo com status codes
 Seção onde realmente se inicia a codificação do projeto.
 Os [recursos](devcamper_project_resourcer) dessa seção contém as especificações, links para as bibliotecas utilizadas e os templates HTML. Esses templates serão usados apenas para referência, tendo em vista que o foco do treinamento é a criação de API
 
+### 12 - Basic Express Server, dotenv & git
+
 ## Seção 4
 
 ## Seção 5
